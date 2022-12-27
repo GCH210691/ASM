@@ -1,3 +1,3 @@
-THIS IS A BASIC CRUD WEBSITE I HAVE MADE WITHOUT USING AUTO-GENERATED CODE. THE WEBSITE SHOULD HAVE
-BEEN A GROUP PROJECT BUT MY PARTNER HAVE QUITTED HALFWAY SO I MUST RECREATE THE WEB MYSELF. 
+this is a basic crud website i have made without using auto-generated code. the website should have
+been a group project but my partner have quitted halfway so I must recreate the web myself.
 
